@@ -22,7 +22,7 @@
       "package": "com.anonymous.hbplus"
     },
     "web": {
-      "output": "server",
+      "output": "single",
       "favicon": "./assets/images/favicon.png"
     },
     "experiments": {
